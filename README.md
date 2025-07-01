@@ -53,8 +53,10 @@ _Feel free to reach out — I’d love to connect!_
 ---
 [![](https://visitcount.itsvg.in/api?id=mithalikp25&icon=9&color=5)](https://visitcount.itsvg.in)
 
-
 ## 🌐 Socials:
+
+I'm always up for a good conversation — whether it's about tech, collaboration, or just sharing ideas over virtual coffee! <br/><br/>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/mithali-kp-23b815327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithali-kp" height="30" width="40" />
@@ -73,7 +75,7 @@ _Feel free to reach out — I’d love to connect!_
   </a>
 </p>
 
-
+_Feel free to reach out — I’d love to connect!_
 
 <p align="center">
 Thanks for stopping by!<br/>
